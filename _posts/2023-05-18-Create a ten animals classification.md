@@ -5,6 +5,7 @@ The training took longer than the example but its still under a minute. Here is 
 | epoch |	train_loss	| valid_loss	| error_rate	| time |
 |-|-|-|-|-|
 |0 | 1.644758	| 0.427368	| 0.135922	| 00:20 |
+|-|-|-|-|-|
 | epoch |	train_loss	| valid_loss	| error_rate	| time |
 |-|-|-|-|-|
 | 0	| 0.489739	| 0.372724	| 0.128155	| 00:15 |
