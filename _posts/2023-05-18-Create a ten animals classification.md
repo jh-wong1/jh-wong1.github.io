@@ -1,6 +1,6 @@
 I have finally done my first task with fastai. The task is to classify ten animals with the first example in fastai. This takes a long time as there is an issue with duckduckgo search wasn't working for searching multiple times, but glad they finally fixed that issue.
 The training took longer than the example but its still under a minute. Here is the training data:
-## Tables
+## Tables of training data
 
 | epoch |	train_loss	| valid_loss	| error_rate	| time |
 |-|-|-|-|-|
@@ -12,5 +12,5 @@ The training took longer than the example but its still under a minute. Here is 
 
 I can finish this task and the result seems to be nice with 89.71% accuracy in the first attempt. 
 Here is the result!
-
+## Confusion matrix
 ![Image of confusion matrix](/images/confusion_matrix.png)
