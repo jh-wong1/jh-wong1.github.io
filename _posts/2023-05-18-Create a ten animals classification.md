@@ -14,3 +14,4 @@ I can finish this task and the result seems to be nice with 89.71% accuracy in t
 Here is the result!
 ## Confusion matrix
 ![Image of confusion matrix](/images/confusion_matrix.png)
+Now keep working to improve this results!
