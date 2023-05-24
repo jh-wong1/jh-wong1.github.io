@@ -1,7 +1,7 @@
 The next task is to classify AI generated image compare to real image. As the quality of AI-generated images has rapidly increased, leading to concerns of
 authenticity and trustworthiness. Therefore this task is to attempt using computer vision to differentiate between the two types of images.
 
-The task can be found in [here](https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images) and further information in [here](https://arxiv.org/abs/2303.14126).
+The task can be found in [Kaggle](https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images) and further information in [the paper](https://arxiv.org/abs/2303.14126).
 
 I have attempted this problem with trying three different models of Convolutional Neural Network (CNN) and compare their result. The models I used are:
 
