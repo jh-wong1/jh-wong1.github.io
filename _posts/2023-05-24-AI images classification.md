@@ -10,13 +10,13 @@ I have attempted this problem with trying three different models of Convolutiona
 1. `densenet121`
 
 They all sucessfully to differentiate the two types of images, and the result of each is shown in the confusion matrix below.
-#resnet18
+## resnet18
 ![Image of resnet18 result](/images/cf1.png)
 
-#squeezenet1_0
+## squeezenet1_0
 ![Image of squeezenet1_0 result](/images/cf2.png)
 
-#densenet121
+## densenet121
 ![Image of densenet121 result](/images/cf3.png)
  
  The result shows `densenet121` have the best result, with an accuracy of 98.42%!
