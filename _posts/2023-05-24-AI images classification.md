@@ -19,4 +19,4 @@ They all sucessfully to differentiate the two types of images, and the result of
 ## densenet121
 ![Image of densenet121 result](/images/cf3.png)
  
- The result shows `densenet121` have the best result, with an accuracy of 98.42%!
+ The result shows `densenet121` have the best result, with an accuracy of 97.25%!
